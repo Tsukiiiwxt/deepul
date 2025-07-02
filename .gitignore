@@ -4,5 +4,6 @@
 *__pycache__
 *.png
 *.pkl
+*.pth
 *.jpg
 .vscode/
