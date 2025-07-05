@@ -2,8 +2,8 @@
 *.DS_Store
 *.egg-info
 *__pycache__
-*.png
 *.pkl
 *.pth
 *.jpg
 .vscode/
+**/checkpoints_[0-9]*/
